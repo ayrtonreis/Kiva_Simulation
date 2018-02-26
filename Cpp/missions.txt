@@ -1,0 +1,6 @@
+missionId, startX, startY, startDir, finalX, finalY, finalDir
+2525		64 12 1         40 12 1
+215452		28 20 3 	16 52 4
+98522		16 52 4 	64 12 1
+2668		88 68 3 	108 24 2
+58888		88 68 3 	96 16 4
